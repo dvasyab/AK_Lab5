@@ -4,6 +4,8 @@
 
 This program was made for encoding and decoding txt files in english
 
+How to use:
+
 Keys: [-type] [method]
 
       -type:
