@@ -6,7 +6,7 @@ This program was made for encoding and decoding txt files in english
 
 How to use:
 
-Keys: [-type] [method]
+Keys: [-type] [method] [path_to_file]
 
       -type:
       
