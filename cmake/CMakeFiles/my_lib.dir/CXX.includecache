@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Documents/C++_Projects/enc_dec_txt/dec.cpp
+iostream
+-
+vector
+-
+
+/root/Documents/C++_Projects/enc_dec_txt/enc.cpp
+iostream
+-
+vector
+-
+
+/root/Documents/C++_Projects/enc_dec_txt/working_with_file.cpp
+iostream
+-
+fstream
+-
+vector
+-
+

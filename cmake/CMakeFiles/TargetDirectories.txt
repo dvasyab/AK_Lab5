@@ -1,0 +1,4 @@
+/root/Documents/C++_Projects/enc_dec_txt/cmake/CMakeFiles/rebuild_cache.dir
+/root/Documents/C++_Projects/enc_dec_txt/cmake/CMakeFiles/my_lib.dir
+/root/Documents/C++_Projects/enc_dec_txt/cmake/CMakeFiles/edit_cache.dir
+/root/Documents/C++_Projects/enc_dec_txt/cmake/CMakeFiles/encdec.dir
