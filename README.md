@@ -19,5 +19,7 @@ Keys: [-type] [method] [path_to_file]
              1 - simple Caesar algoritm
              
              2 - my alg (please don't throw rocks on me, that was litle experiment xD)
+             
+        As example type: ./encdec -e 2 ./CMakeList.txt
         
  Use -h for help
